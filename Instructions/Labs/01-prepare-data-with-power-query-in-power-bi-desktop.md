@@ -126,6 +126,10 @@ In this task you will create queries based on SQL Server tables.
 
 	![Picture 21](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image12.png)
 
+	![Picture](Linked_image_Files/login.png)
+
+	![Picture](Linked_image_Files/login2.png)
+
 	In this lab you’ll connect to the SQL Server database by using **localhost**. This isn’t a recommended practice when creating your own solutions. It’s because gateway data sources cannot resolve **localhost**.
 
 3. Click **OK**.
