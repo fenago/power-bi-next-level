@@ -15,6 +15,11 @@ In this lab you learn how to:
 
 - Configure many-to-many relationships
 
+
+<h4><span style="color:red;">Important! Make sure that you have copied **DA100** folder from `Desktop/Power-BI` folder into D: drive before starting the lab.</span></h4>
+
+![](./Linked_image_Files/copy.png)
+
 ### **Lab story**
 
 This lab is one of many in a series of labs that was designed as a complete story from data preparation to publication as reports and dashboards. You can complete the labs in any order. However, if you intend to work through multiple labs, for the first 10 labs, we suggest you do them in the following order:
