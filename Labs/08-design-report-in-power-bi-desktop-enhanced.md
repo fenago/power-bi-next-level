@@ -22,7 +22,7 @@ In this lab you learn how to:
 - Create and use bookmarks
 
 
-<h4><span style="color:red;">Important! Make sure that you have copied **DA100** folder from `Desktop/Power-BI` folder into D: drive before starting the lab.</span></h4>
+<h4><span style="color:red;">Important! Make sure that you have copied **DA100** folder from `Desktop/power-bi-next-level` folder into D: drive before starting the lab.</span></h4>
 
 ![](./Linked_image_Files/copy.png)
 
