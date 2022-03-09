@@ -54,7 +54,7 @@ This lab is one of many in a series of labs that was designed as a complete stor
 
 In this exercise you will create a three-page report named **Sales Report**.
 
-### **Task 1: Get started – Sign in**
+### **Task 1: Open Browser**
 
 In this task you will setup the environment for the lab by signing in to Power BI.
 
@@ -62,17 +62,21 @@ In this task you will setup the environment for the lab by signing in to Power B
 
 1. To open Microsoft Edge, on the taskbar, click the Microsoft Edge program shortcut.
 
- 	![Picture 65](Linked_image_Files/07-design-report-in-power-bi-desktop_image1.png)
+![Picture 65](Linked_image_Files/07-design-report-in-power-bi-desktop_image1.png)
+
+### **Task 2: Get started – Sign in**
 
 1. In the Microsoft Edge browser window, navigate to **https://powerbi.com**.
 
- 	*Tip: You can also use the Power BI Service favorite on the Microsoft Edge favorites bar.*
+1. Enter **email**:
 
-1. Click **Sign In** (located at the top-right corner).
+**Username:** VM_NAME@gei411gmail.onmicrosoft.com (replace VM_NAME with VM assigned to you e-g: student1)
 
- 	![Picture 63](Linked_image_Files/07-design-report-in-power-bi-desktop_image2.png)
+![Picture 63](Linked_image_Files/07-design-report-in-power-bi-desktop_image2.png)
 
-1. Enter the account details provided to you (check out the **Resources**).
+1. Enter the account details:
+
+**Password:** Provided by Instructor 
 
 1. If prompted to update the password, reenter the provided password, and then enter and confirm a new password.
 
@@ -84,37 +88,6 @@ In this task you will setup the environment for the lab by signing in to Power B
 
 1. Leave the Microsoft Edge browser window open.
 
-### **Task 2: Get started – Enable Map and filled map visuals**
-
-In this task you will enable map and filled map visuals in the environment for the lab by updating the Integration settings in the Power BI Admin portal. 
-
-
-1. To open the Power BI Admin portal, at the top-right of the browser, click the **Settings** icon.
-
- 	![Picture 101](Linked_image_Files/07-design-report-in-power-bi-desktop_image101.png)
-
-1. Select **Admin portal**.
-
- 	![Picture 102](Linked_image_Files/07-design-report-in-power-bi-desktop_image102.png)
-
-1. Scroll down the page to Integration settings. Click the arrow to expand the Map and filled map visuals option.
-
- 	![Picture 103](Linked_image_Files/07-design-report-in-power-bi-desktop_image103.png)
-
-1. Set the Map and filled map visuals option to **Enabled**.
-
-1. Click **Apply**, to apply the changes. 
-
-	![Picture 104](Linked_image_Files/07-design-report-in-power-bi-desktop_image104.png)
-
-1. A message will appear at the top-right of the browser stating the Tenant settings changes will be applied within the next 15 minutes. 
-
-
-	![Picture 105](Linked_image_Files/07-design-report-in-power-bi-desktop_image105.png)
-
-
-
-1. Leave the Microsoft Edge browser window open.
 
 ### **Task 3: Get started – Open report**
 
@@ -350,9 +323,6 @@ In this task you will design the second report page. When you’ve completed the
 2. Rename the page to **Profit**.
 
 	![Picture 43](Linked_image_Files/07-design-report-in-power-bi-desktop_image39.png)
-
-  
-‎ 
 
 3. Add a slicer based on the **Region \| Region** field.
 

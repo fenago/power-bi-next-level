@@ -70,13 +70,15 @@ In this task you will setup the environment for the lab by signing in to Power B
 
 2. In the Microsoft Edge browser window, navigate to **https://powerbi.com**.
 
-    *Tip: You can also use the Power BI Service favorite on the Microsoft Edge favorites bar.*
+3. Enter **email**:
 
-3. Click **Sign In** (located at the top-right corner).
+**Username:** VM_NAME@gei411gmail.onmicrosoft.com (replace VM_NAME with VM assigned to you e-g: student1)
 
-    ![Picture 41](Linked_image_Files/09-create-power-bi-dashboard_image3.png)
+![Picture 41](Linked_image_Files/09-create-power-bi-dashboard_image3.png)
 
-4. Enter the account details provided to you.
+4. Enter the account details:
+
+**Password:** Provided by Instructor
 
 5. If prompted to update the password, reenter the provided password, and then enter and confirm a new password.
 

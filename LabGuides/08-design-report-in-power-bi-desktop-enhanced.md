@@ -66,17 +66,19 @@ In this task you will setup the environment for the lab by signing in to Power B
 
 1. To open Microsoft Edge, on the taskbar, click the Microsoft Edge program shortcut.
 
- 	![Picture 12](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image1.png)
+![Picture 12](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image1.png)
 
 1. In the Microsoft Edge browser window, navigate to **https://powerbi.com**.
 
- 	*Tip: You can also use the Power BI Service favorite on the Microsoft Edge favorites bar.*
+1. Enter **email**:
 
-1. Click **Sign In** (located at the top-right corner).
+**Username:** VM_NAME@gei411gmail.onmicrosoft.com (replace VM_NAME with VM assigned to you e-g: student1)
 
- 	![Picture 11](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image2.png)
+![Picture 11](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image2.png)
 
-1. Enter the account details provided to you.
+1. Enter the account details:
+
+**Password:** Provided by Instructor  
 
 1. If prompted to update the password, reenter the provided password, and then enter and confirm a new password.
 

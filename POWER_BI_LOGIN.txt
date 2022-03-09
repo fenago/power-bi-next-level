@@ -1,0 +1,17 @@
+VM Name         Power BI Login Username
+student1		student1@gei411gmail.onmicrosoft.com     
+student2		student2@gei411gmail.onmicrosoft.com     
+student3		student3@gei411gmail.onmicrosoft.com
+student4		student4@gei411gmail.onmicrosoft.com     
+student5		student5@gei411gmail.onmicrosoft.com     
+student6		student6@gei411gmail.onmicrosoft.com     
+student7		student7@gei411gmail.onmicrosoft.com     
+student8		student8@gei411gmail.onmicrosoft.com     
+student9		student9@gei411gmail.onmicrosoft.com     
+student10		student10@gei411gmail.onmicrosoft.com     
+student11		student11@gei411gmail.onmicrosoft.com    
+student12		student12@gei411gmail.onmicrosoft.com    
+student13		student13@gei411gmail.onmicrosoft.com     
+student14		student14@gei411gmail.onmicrosoft.com     
+student15		student15@gei411gmail.onmicrosoft.com     
+student16		student16@gei411gmail.onmicrosoft.com    
