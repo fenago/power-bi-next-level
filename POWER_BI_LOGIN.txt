@@ -15,3 +15,11 @@ student13		student13@gei411gmail.onmicrosoft.com
 student14		student14@gei411gmail.onmicrosoft.com     
 student15		student15@gei411gmail.onmicrosoft.com     
 student16		student16@gei411gmail.onmicrosoft.com    
+student17		student17@gei411gmail.onmicrosoft.com
+student18		student18@gei411gmail.onmicrosoft.com
+student19		student19@gei411gmail.onmicrosoft.com
+student20		student20@gei411gmail.onmicrosoft.com
+student21		student21@gei411gmail.onmicrosoft.com
+
+**Note:** 
+Above login details are for Power BI desktop and powerbi.com only. Please do not login on Azure portal
