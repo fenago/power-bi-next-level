@@ -119,7 +119,7 @@ In this task you will setup the environment for the lab by opening the starter r
 
 	![Picture 30](Linked_image_Files/07-design-report-in-power-bi-desktop_image7.png)
 
-8. In the **Open** window, navigate to the **D:\DA100\Labs\07-design-report-in-power-bi-desktop\Starter** folder.
+8. In the **Open** window, navigate to the **C:\DA100\Labs\07-design-report-in-power-bi-desktop\Starter** folder.
 
 9. Select the **Sales Analysis** file.
 
@@ -139,7 +139,7 @@ In this task you will setup the environment for the lab by opening the starter r
 
 	![Picture 5](Linked_image_Files/07-design-report-in-power-bi-desktop_image10.png)
 
-15. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
+15. In the **Save As** window, navigate to the **C:\DA100\MySolution** folder.
 
 16. Click **Save**.
 
@@ -165,7 +165,7 @@ In this task you will design the first report page. When you’ve completed the 
 
 	![Picture 1](Linked_image_Files/07-design-report-in-power-bi-desktop_image15.png)
 
-4. In the **Open** window, navigate to the **D:\DA100\Resources** folder.
+4. In the **Open** window, navigate to the **C:\DA100\Resources** folder.
 
 5. Select the **AdventureWorksLogo.jpg** file, and then click **Open**.
 

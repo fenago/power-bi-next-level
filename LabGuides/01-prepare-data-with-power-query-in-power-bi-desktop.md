@@ -77,7 +77,7 @@ In this task you will first save the Power BI Desktop file.
 
  	![Picture 4](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image3.png)
 
-1. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
+1. In the **Save As** window, navigate to the **C:\DA100\MySolution** folder.
 
 1. In the **File Name** box, enter **Sales Analysis**.
 
@@ -291,7 +291,7 @@ In this task you will create a query based on a CSV file.
 
 	![Picture 70](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image35.png)
 
-2. In the **Open** window, navigate to the **D:\DA100\Resources** folder, and select the **ResellerSalesTargets.csv** file.
+2. In the **Open** window, navigate to the **C:\DA100\Resources** folder, and select the **ResellerSalesTargets.csv** file.
 
 3. Click **Open**.
 
@@ -326,7 +326,7 @@ In this task you will create a query based on a CSV file.
 
 In this task you will create an additional query based on a different CSV file.
 
-1. Use the steps in the previous task to create a query based on the **D:\DA100\Resources\ColorFormats.csv** file.
+1. Use the steps in the previous task to create a query based on the **C:\DA100\Resources\ColorFormats.csv** file.
 
 	![Picture 75](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image39.png)
 

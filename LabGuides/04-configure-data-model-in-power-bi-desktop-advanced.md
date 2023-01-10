@@ -76,7 +76,7 @@ In this task you will setup the environment for the lab.
 
  	![Picture 5](Linked_image_Files/04-configure-data-model-in-power-bi-desktop-advanced_image4.png)
 
-1. In the **Open** window, navigate to the **D:\DA100\Labs\04-configure-data-model-in-power-bi-desktop-advanced\Starter** folder.
+1. In the **Open** window, navigate to the **C:\DA100\Labs\04-configure-data-model-in-power-bi-desktop-advanced\Starter** folder.
 
 1. Select the **Sales Analysis** file.
 
@@ -96,7 +96,7 @@ In this task you will setup the environment for the lab.
 
  	![Picture 15](Linked_image_Files/04-configure-data-model-in-power-bi-desktop-advanced_image7.png)
 
-1. In the **Save As** window, navigate to the **D:\DA100\MySolution** folder.
+1. In the **Save As** window, navigate to the **C:\DA100\MySolution** folder.
 
 1. Click **Save**.
 
