@@ -20,7 +20,7 @@ In this lab you learn how to:
 - Configure a dashboard tile alert
 
 
-<h4><span style="color:red;">Important! Make sure that you have copied **DA100** folder from `Desktop/power-bi-next-level` folder into D: drive before starting the lab.</span></h4>
+<h4><span style="color:red;">Important! Make sure that you have copied **DA100** folder from `Desktop/power-bi-next-level` folder into D:\ drive before starting the lab.</span></h4>
 
 ![](./Linked_image_Files/copy.png)
 
@@ -72,7 +72,7 @@ In this task you will setup the environment for the lab by signing in to Power B
 
 3. Enter **email**:
 
-**Username:** VM_NAME@gei411gmail.onmicrosoft.com (replace VM_NAME with VM assigned to you e-g: student1)
+**Username:** studentX@gei411gmail.onmicrosoft.com (replace studentX with number assigned to you e-g: student1 by your instructor)
 
 ![Picture 41](Linked_image_Files/09-create-power-bi-dashboard_image3.png)
 
