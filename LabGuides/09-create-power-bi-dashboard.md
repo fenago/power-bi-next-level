@@ -104,9 +104,7 @@ In this task you will setup the environment for the lab by opening the starter r
 
     ![Picture 39](Linked_image_Files/09-create-power-bi-dashboard_image5.png)
 
-2. To close the getting started window, at the top-left of the window, click **X**.
 
-    ![Picture 38](Linked_image_Files/09-create-power-bi-dashboard_image6.png)
 
 3. If Power BI Desktop is not signed in to the Power BI service, at the top-right, click **Sign In**.
 

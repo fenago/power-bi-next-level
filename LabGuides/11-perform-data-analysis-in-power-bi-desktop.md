@@ -128,9 +128,6 @@ In this task you will create the **Sales Exploration** report.
 
 	![Picture 14](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image7.png)
 
-2. To close the getting started window, at the top-left of the window, click **X**.
-
-	![Picture 13](Linked_image_Files/10-perform-data-analysis-in-power-bi-desktop_image8.png)
 
 3. If Power BI Desktop is not signed in to the Power BI service, at the top-right, click **Sign In**.
 

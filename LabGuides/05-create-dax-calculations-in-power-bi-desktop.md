@@ -66,9 +66,7 @@ In this task you will setup the environment for the lab.
 
  	![Picture 50](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image1.png)
 
-1. To close the getting started window, at the top-left of the window, click **X**.
 
- 	![Picture 49](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image2.png)
 
 1. To open the starter Power BI Desktop file, click the **File** ribbon tab to open the backstage view.
 

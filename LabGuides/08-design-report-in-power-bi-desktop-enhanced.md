@@ -104,9 +104,7 @@ In this task you will setup the environment for the lab by opening the starter r
 
 	![Picture 10](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image4.png)
 
-2. To close the getting started window, at the top-left of the window, click **X**.
 
-	![Picture 9](Linked_image_Files/08-design-report-in-power-bi-desktop-enhanced_image5.png)
 
 3. To sign in to the Power BI service, at the top-right, click **Sign In**.
 

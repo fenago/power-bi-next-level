@@ -67,9 +67,9 @@ In this task you will first save the Power BI Desktop file.
 
  	![Picture 2](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image1.png)
 
-1. To close the getting started window, at the top-right of the window, click **X**.
+1. Click **New** > **Report**:
 
- 	![Picture 3](Linked_image_Files/01-prepare-data-with-power-query-in-power-bi-desktop_image2.png)
+	![](./Linked_image_Files/new.png)
 
 1. To save the file, click the **File** ribbon tab to open the backstage view.
 
