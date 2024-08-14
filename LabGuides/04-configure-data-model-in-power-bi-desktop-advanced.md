@@ -104,7 +104,7 @@ In this task you will setup the environment for the lab.
 
 In this task you will create a many-to-many relationship between the **Salesperson** table and the **Sales** table.
 
-1. In Power BI Desktop, in Report view, in the **Fields** pane, check the follow two fields to create a table visual:
+1. In Power BI Desktop, in Report view, in the **Data** pane, check the follow two fields to create a table visual:
 
 	- Salesperson \| Salesperson
 

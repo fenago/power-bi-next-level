@@ -45,7 +45,7 @@ and displays a **Load** window of the import progress.
 ![](./Linked_image_Files/connect-to-odata_4.png)
 
 Once complete, Power BI Desktop makes the selected tables and other data
-elements available in the **Fields** pane, found on the right side of
+elements available in the **Data** pane, found on the right side of
 the *Reports* view in Power BI Desktop.
 
 ![](./Linked_image_Files/connect-to-odata_5.png)

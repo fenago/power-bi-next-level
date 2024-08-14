@@ -739,7 +739,7 @@ In this task you will complete the lab.
 
 	*All load-enabled queries are now loaded to the data model.*
 
-3. In the **Fields** pane (located at the right), notice the seven tables loaded to the data model.
+3. In the **Data** pane (located at the right), notice the seven tables loaded to the data model.
 
 	![Picture 3](Linked_image_Files/02-load-data-with-power-query-in-power-bi-desktop_image84.png)
 

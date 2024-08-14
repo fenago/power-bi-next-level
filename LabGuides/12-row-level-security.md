@@ -110,7 +110,7 @@ In this task you will enforce row-level security to ensure a salesperson can onl
 
 	![Picture 5701](Linked_image_Files/04-configure-data-model-in-power-bi-desktop-advanced_image20.png)
 
-2. In the **Fields** pane, select the **Salesperson (Performance)** table.
+2. In the **Data** pane, select the **Salesperson (Performance)** table.
 
 3. Review the data, noticing that Michael Blythe (EmployeeKey 281) has a UPN value of: **michael-blythe@adventureworks.com**
 

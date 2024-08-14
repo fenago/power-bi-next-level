@@ -362,7 +362,7 @@ In this task you will run a PowerShell script to update data in the **AdventureW
 
 In this task you will open the **Sales Analysis** Power BI Desktop file, perform a data refresh, and then upload the file to your **Sales Analysis** workspace.
 
-1. In Power BI Desktop file, in the **Fields** pane, right-click the **Sales** table, and then select **Refresh Data**.
+1. In Power BI Desktop file, in the **Data** pane, right-click the **Sales** table, and then select **Refresh Data**.
 
     ![Picture 55](Linked_image_Files/09-create-power-bi-dashboard_image47.png)
 
