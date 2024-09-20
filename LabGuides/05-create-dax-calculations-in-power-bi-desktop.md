@@ -190,7 +190,7 @@ In this task you will create the **Date** table.
 	```
 
 
-	![Picture 6](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image16.png)
+![Picture 6](Linked_image_Files/05-create-dax-calculations-in-power-bi-desktop_image16.png)
 
 	
 	*The CALENDARAUTO() function returns a single-column table consisting of date values. The “auto” behavior scans all data model date columns to determine the earliest and latest date values stored in the data model. It then creates one row for each date within this range, extending the range in either direction to ensure full years of data is stored.*
